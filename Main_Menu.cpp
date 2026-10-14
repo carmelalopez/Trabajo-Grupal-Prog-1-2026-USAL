@@ -12,6 +12,7 @@ int main() {
 		printf("\nIngresar opcion: );
 		fflush(stdin);
 		scanf("%c", &datos.opcion_excursion);
+		datos.opcion_excursion = toupper(datos.opcion_excursion);
 
 		switch (datos.opcion_excursion) {
 
