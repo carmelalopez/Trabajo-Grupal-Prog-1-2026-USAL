@@ -16,6 +16,7 @@ int main() {
 		switch (datos.opcion_excursion) {
 
 		case 'A': 
+			mostrar_excursiones();
 			break;
 		case 'B': 
 			break;
