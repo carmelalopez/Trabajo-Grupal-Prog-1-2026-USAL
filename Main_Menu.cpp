@@ -5,7 +5,7 @@ int main() {
 	do {
 		printf("MENU PRINCIPAL - EXCURSIONES SUDAFRICA");
 
-		switch (datos.nro_eleccion) {
+		switch (datos.opcion_excursio) {
 
 		case 1: printf("(1)Mostrar información sobre las excursiones.");
 			break;
