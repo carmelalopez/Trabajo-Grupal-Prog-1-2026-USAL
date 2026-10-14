@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <ctype.h>
-#define TAM 15
+#define FECHA 7
+
 
 typedef struct {
-	char fecha_actual[TAM];
+	char fecha_actual[FECHA];
 	char opcion_excursion; //elige A B o C segun la excursion que desea realizar
 	float presupuesto;  // presupuesto del usuario
 	int cant_personas;  // cantidad de personas para realizar un calculo de presupuesto
