@@ -7,7 +7,7 @@ int main() {
 
 		switch (datos.opcion_excursion) {
 
-		case 'A: printf("(1)Mostrar información sobre las excursiones.");
+		case 'A': printf("(1)Mostrar información sobre las excursiones.");
 			break;
 		case 'B': printf("(2) Averiguar la disponibilidad de las fechas.");
 			break;
