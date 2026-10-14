@@ -19,7 +19,7 @@ int main() {
 			printf("\n------EXCURSIONES EN SUDAFRICA------\n");
 			printf("\n---Safari de día completo en vehículo 4x4---\n");
             printf("LUGAR: Parque Nacional Kruger\n");
-            printf("AVISTAMIENTOS: Los \"Cinco Grandes\"\n");
+            printf("AVISTAMIENTOS: Los "Cinco Grandes"\n");
             printf("DURACIÓN: 8 a 10hs\n");
             printf("PRECIO DE SAFARI COMPARTIDO: 170 USD por persona + TARIFA DE CONSERVACIÓN 28 USD por persona\n");
             printf("DISPONIBILIDAD DE FECHAS:\n");
