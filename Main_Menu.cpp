@@ -5,19 +5,19 @@ int main() {
 	do {
 		printf("MENU PRINCIPAL - EXCURSIONES SUDAFRICA");
 
-		switch (datos.opcion_excursio) {
+		switch (datos.opcion_excursion) {
 
-		case 1: printf("(1)Mostrar información sobre las excursiones.");
+		case 'A: printf("(1)Mostrar información sobre las excursiones.");
 			break;
-		case 2: printf("(2) Averiguar la disponibilidad de las fechas.");
+		case 'B': printf("(2) Averiguar la disponibilidad de las fechas.");
 			break;
-		case 3: printf("(3) Nos adaptamos a su presupuesto!");
+		case 'C': printf("(3) Nos adaptamos a su presupuesto!");
 			break;
-		case 4: printf("(4) Gracias por visitarnos.Vuelva pronto!");
+		case 'D': printf("(4) Gracias por visitarnos.Vuelva pronto!");
 			break;
 
 		}
-	} while (datos.opcion_excursion != 4);
+	} while (datos.opcion_excursion != 'C');
 
 	return 0;
 }
