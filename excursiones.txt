@@ -6,12 +6,12 @@ AVISTAMIENTOS: Los "Cinco Grandes"
 DURACIÓN: 8 a 10hs
 PRECIO DE SAFARI COMPARTIDO: 170 USD por persona + TARIFA DE CONSERVACIÓN 28 USD por persona
 DISPONIBILIDAD DE FECHAS:
-   -1409
-   -1809
-   -1210
-   -1610
-   -0211
-   -0611
+   -14/09
+   -18/09
+   -12/10
+   -16/10
+   -02/11
+   -06/11
 
 -Avistamiento de ballenas en embarcación-
 LUGAR:Hermanus (Walker Bay, provincia del Cabo Occidental)
@@ -19,12 +19,12 @@ AVISTAMIENTOS:Ballena franca austral y pingüinos africanos.
 DURACIÓN: 2hs
 PRECIO: Adultos 85 USD - Niños 40 USD
 DISPONIBILIDAD DE FECHAS:
-     -0906
-     -2406
-     -0707
-     -2207
-     -1008
-     -3108
+     -09/06
+     -24/06
+     -07/07
+     -22/07
+     -10/08
+     -31/08
 
 -Inmersión en jaula con tiburones (Shark Cage Diving)-
 LUGAR:Gansbaai / Puerto de Kleinbaai
@@ -32,10 +32,10 @@ AVISTAMIENTOS:Tiburón cobrizo y tiburón blanco
 DURACIÓN: 3 a 4hs
 PRECIO: Ticket de inmersión por persona 150 USD
 DISPONIBILIDAD DE FECHAS:
-     -1602
-     -2002
-     -0903
-     -1303
-     -0104
-     -1004
+     -16/02
+     -20/02
+     -09/03
+     -13/03
+     -01/04
+     -10/04
 
