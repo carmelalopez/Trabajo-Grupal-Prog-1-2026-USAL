@@ -27,7 +27,7 @@ int main() {
 			break;
 
 		}
-	} while (datos.opcion_excursion != 'C');
+	} while (datos.opcion_excursion != 'D');
 
 	return 0;
 }
