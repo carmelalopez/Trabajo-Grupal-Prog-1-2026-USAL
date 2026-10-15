@@ -13,5 +13,5 @@ typedef struct {
 } Excursion;
 
 void mostrar_excursiones ();
-void disponibilidad;
+void disponibilidad ();
 
