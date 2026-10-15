@@ -8,3 +8,4 @@ void disponibilidad() {
     if (archivo == NULL) {
         printf("Error: No se pudo abrir el archivo 'excursiones.txt'.\n");
 
+
