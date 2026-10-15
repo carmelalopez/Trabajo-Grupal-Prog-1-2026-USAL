@@ -20,6 +20,7 @@ int main() {
 			mostrar_excursiones();
 			break;
 		case 'B': 
+			 disponibilidad ();
 			break;
 		case 'C':
 			break;
