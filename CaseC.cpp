@@ -1,7 +1,5 @@
-{
-    case 'C':
-
-    printf("\nIngrese su presupuesto disponible en USD: ");
+  void presupuestoSafari (){
+printf("\nIngrese su presupuesto disponible en USD: ");
     scanf("%f", &datos.presupuesto);
 
     printf("Ingrese la cantidad de personas: ");
@@ -23,12 +21,9 @@
     if (datos.presupuesto >= 150 * datos.cant_personas) {
         printf("\n- Inmersion en jaula con tiburones");
         printf("\n- Avistamiento de ballenas en embarcacion");
-    }
+    } }
 
     if (datos.presupuesto >= 85 * datos.cant_personas) {
         printf("\n- Avistamiento de ballenas en embarcacion");
     }
 
-    break;
-
-}
