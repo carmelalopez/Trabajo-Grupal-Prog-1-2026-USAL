@@ -12,18 +12,18 @@ printf("\nIngrese su presupuesto disponible en USD: ");
 
     printf("\n\n---EXCURSIONES QUE PUEDEN REALIZAR---:");
 
-    if (datos.presupuesto >= TODO * datos.cant_personas) {
+    if ((datos.presupuesto* datos.cant_personas) >= TODO) {
         printf("\n- Safari de dia completo en vehiculo 4x4");
         printf("\n- Inmersion a jaula con tiburines");
         printf("\n- Avistamiento de ballenas en embarcacion");
     }
 
- else if (datos.presupuesto >= MEDIO * datos.cant_personas) {
+ else if ((datos.presupuesto * datos.cant_personas) >= MEDIO) {
         printf("\n- Inmersion en jaula con tiburones");
         printf("\n- Avistamiento de ballenas en embarcacion");
     } }
 
-   else if (datos.presupuesto >= POCO * datos.cant_personas) {
+   else if ((datos.presupuesto* datos.cant_personas) >= POCO) {
         printf("\n- Avistamiento de ballenas en embarcacion");
     }
 else {
