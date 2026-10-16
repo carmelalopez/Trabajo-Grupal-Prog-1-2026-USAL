@@ -1,11 +1,11 @@
-void disponibilidad() {
+void disponibilidad(Excursion *datos) {
 
 	Excursion datos;
 	printf("Ingrese la fecha actual (dd/mm): ");
-	scanf("%s", datos.fecha_actual);
+	scanf("%s", datos->fecha_actual);
 
 	int dia, mes;
-	if (sscanf(datos.fecha_actual, "%d/%d", &dia, &mes) != 2) {
+	if (sscanf(datos->fecha_actual, "%d/%d", &dia, &mes) != 2) {
 		printf("Error: Formato de fecha incorrecto. Debe ser dd/mm.\n");
 		return;
 	}
@@ -37,17 +37,17 @@ void disponibilidad() {
 					if (mes < mes_archivo || (mes == mes_archivo && dia < dia_archivo)) {
 						printf("Disponible\n");
 						fprintf(archivo_disponible, "%02d/%02d\n", dia_archivo, mes_archivo);
-						datos.disponibilidad = true;
+						datos->disponibilidad = true;
 					}
 					else if (mes > mes_archivo || (mes == mes_archivo && dia > dia_archivo)) {
 						printf("NO Disponible\n");
 						fprintf(archivo_no_disponible, "%02d/%02d\n", dia_archivo, mes_archivo);
-						datos.disponibilidad = false;
+						datos->disponibilidad = false;
 					}
 					else {
 						printf("Es hoy, reserve los ultimos cupos\n");
 						fprintf(archivo_disponible, "- %02d/%02d (HOY)\n", dia_archivo, mes_archivo);
-						datos.disponiblidad = true;
+						datos->disponiblidad = true;
 					}
 				}
 			}
