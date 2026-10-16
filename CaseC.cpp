@@ -1,4 +1,4 @@
-  void presupuestoSafari (){
+  void presupuestoSafari (Excursion datos){
 printf("\nIngrese su presupuesto disponible en USD: ");
     scanf("%f", &datos.presupuesto);
 
@@ -12,18 +12,21 @@ printf("\nIngrese su presupuesto disponible en USD: ");
 
     printf("\n\n---EXCURSIONES QUE PUEDEN REALIZAR---:");
 
-    if (datos.presupuesto >= 198 * datos.cant_personas) {
+    if (datos.presupuesto >= TODO * datos.cant_personas) {
         printf("\n- Safari de dia completo en vehiculo 4x4");
         printf("\n- Inmersion a jaula con tiburines");
         printf("\n- Avistamiento de ballenas en embarcacion");
     }
 
-    if (datos.presupuesto >= 150 * datos.cant_personas) {
+ else if (datos.presupuesto >= MEDIO * datos.cant_personas) {
         printf("\n- Inmersion en jaula con tiburones");
         printf("\n- Avistamiento de ballenas en embarcacion");
     } }
 
-    if (datos.presupuesto >= 85 * datos.cant_personas) {
+   else if (datos.presupuesto >= POCO * datos.cant_personas) {
         printf("\n- Avistamiento de ballenas en embarcacion");
     }
+else {
+	  	 printf ("No puede realizar ninguna excursion\n");
+	  } }
 
