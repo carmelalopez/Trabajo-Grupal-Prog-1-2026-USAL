@@ -1,5 +1,6 @@
 #ifndef CASEB
 #define CASEB
+#include "Inicio_Estructura.h"
 
 void disponibilidad(Excursion *datos) {
   
