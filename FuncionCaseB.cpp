@@ -1,3 +1,6 @@
+#ifndef CASEB
+#define CASEB
+
 void disponibilidad() {
 
 	Excursion datos;
@@ -57,4 +60,4 @@ void disponibilidad() {
 		fclose(archivo_disponible);
 		fclose(archivo_no_disponible);
 
-
+#endif
