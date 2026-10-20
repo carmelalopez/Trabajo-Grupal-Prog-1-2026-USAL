@@ -1,4 +1,4 @@
-#include "INICIO_ESTRUCTURA.h"
+#include "Inicio_Estructura.h"
 
 int main() {
 
