@@ -67,6 +67,3 @@ proyecto grupal de Programación I 2026.
 - Se corrigieron errores detectados durante el desarrollo
   para mejorar el funcionamiento del programa.
 
-============================================================
-                 FIN DEL REGISTRO DE AVANCES
-
