@@ -1,4 +1,7 @@
-  void presupuestoSafari (){
+#ifndef CASEC
+#define CASEC
+
+void presupuestoSafari (){
 printf("\nIngrese su presupuesto disponible en USD: ");
     scanf("%f", &datos.presupuesto);
 
@@ -27,3 +30,4 @@ printf("\nIngrese su presupuesto disponible en USD: ");
         printf("\n- Avistamiento de ballenas en embarcacion");
     }
 
+#endif
