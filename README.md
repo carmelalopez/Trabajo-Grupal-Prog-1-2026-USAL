@@ -67,3 +67,35 @@ proyecto grupal de Programación I 2026.
 - Se corrigieron errores detectados durante el desarrollo
   para mejorar el funcionamiento del programa.
 
+------------------------------------------------------------
+20/10/2026 - REVISIÓN FINAL Y MEJORAS DEL PROYECTO
+------------------------------------------------------------
+
+Se terminó de pulir la estética general del programa,
+mejorando la presentación de la información y la
+organización visual de los mensajes mostrados por pantalla.
+
+Se realizaron ajustes en el formato y la distribución
+de los textos para lograr una interfaz más clara,
+ordenada y fácil de comprender para el usuario.
+
+Se detectaron y corrigieron algunos errores de
+compilación que surgieron durante las últimas etapas
+del desarrollo.
+
+Se revisaron las funciones implementadas para verificar
+que las modificaciones realizadas no afectaran el
+funcionamiento general del programa.
+
+Se efectuaron correcciones finales y pequeños ajustes
+en el código fuente con el objetivo de mejorar su
+estabilidad y legibilidad.
+
+Se llevó a cabo una última revisión general del proyecto,
+buscando dejar el programa en condiciones de entrega.
+
+Estas tareas permitieron completar la etapa final de
+revisión y perfeccionamiento del proyecto grupal,
+priorizando tanto el correcto funcionamiento del código
+como la presentación y la experiencia del usuario.
+
