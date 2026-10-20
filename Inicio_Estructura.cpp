@@ -1,3 +1,7 @@
+
+#ifndef INICIO_ESTRUCTURA_H
+#define INICIO_ESTRUCTURA_H
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <ctype.h>
@@ -21,3 +25,4 @@ typedef struct {
 void mostrar_excursiones (Excursion datos);
 void disponibilidad (Excursion *datos);
 void presupuestoSafari (Excursion datos);
+#endif
