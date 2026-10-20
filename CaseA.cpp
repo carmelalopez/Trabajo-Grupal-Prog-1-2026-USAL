@@ -1,3 +1,6 @@
+#ifndef CASEA
+#define CASEA
+
 void mostrar_excursiones() {
 	FILE *archivo;
 	char linea[300];
@@ -15,3 +18,4 @@ void mostrar_excursiones() {
 
 	fclose(archivo);
 }
+#endif
