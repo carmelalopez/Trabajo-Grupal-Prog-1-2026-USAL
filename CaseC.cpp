@@ -2,7 +2,6 @@
 #define CASEC
 #include "Inicio_Estructura.h"
 
-void presupuestoSafari (Excursion datos){
   void presupuestoSafari (Excursion datos){
 printf("\nIngrese su presupuesto disponible en USD: ");
     scanf("%f", &datos.presupuesto);
@@ -35,21 +34,5 @@ printf("\nIngrese su presupuesto disponible en USD: ");
 	  	 printf ("No puede realizar ninguna excursion\n");
 	  } }
 #endif
-    if ((datos.presupuesto* datos.cant_personas) >= TODO) {
-        printf("\n- Safari de dia completo en vehiculo 4x4");
-        printf("\n- Inmersion a jaula con tiburines");
-        printf("\n- Avistamiento de ballenas en embarcacion");
-    }
 
- else if ((datos.presupuesto * datos.cant_personas) >= MEDIO) {
-        printf("\n- Inmersion en jaula con tiburones");
-        printf("\n- Avistamiento de ballenas en embarcacion");
-    } }
-
-   else if ((datos.presupuesto* datos.cant_personas) >= POCO) {
-        printf("\n- Avistamiento de ballenas en embarcacion");
-    }
-else {
-	  	 printf ("No puede realizar ninguna excursion\n");
-	  } }
 
