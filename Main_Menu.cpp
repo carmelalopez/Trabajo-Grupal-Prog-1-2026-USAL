@@ -11,7 +11,7 @@ int main() {
 		printf("(C) Sacar presupuesto.\n");
 		printf("(D) Salir del menu.\n");
 
-		printf("\nIngresar opcion:);
+		printf("\nIngresar opcion:");
 		scanf(" %c", &datos.opcion_excursion);
 		datos.opcion_excursion = toupper(datos.opcion_excursion);
 
