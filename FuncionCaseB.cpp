@@ -8,7 +8,7 @@ void disponibilidad(Excursion *datos) {
 
 	int dia, mes;
 	if (sscanf(datos->fecha_actual, "%d/%d", &dia, &mes) != 2) {
-		printf("Error: Formato de fecha incorrecto. Debe ser dd/mm.\n");
+		printf("ERROR: Formato de fecha incorrecto. Debe ser dd/mm.\n");
 		return;
 	}
 
@@ -17,7 +17,7 @@ void disponibilidad(Excursion *datos) {
 	FILE* archivo_no_disponible = fopen("fechas_no_disponibles.txt", "w");
 
 	if (archivo == NULL || archivo_disponible == NULL || archivo_no_disponible == NULL) { 
-		printf("Error: No se pudo abrir uno o varios archivos.\n");
+		printf("ERROR: No se pudo abrir uno o varios archivos.\n");
 		if (archivo) fclose(archivo);
 		if (archivo_disponible) fclose(archivo_disponible);
 		if (archivo_no_disponible) fclose(archivo_no_disponible);
@@ -29,7 +29,7 @@ void disponibilidad(Excursion *datos) {
 	int dia_archivo, mes_archivo; 
 	char dm;  
 
-		printf("DISPONIBILIDAD DE FECHAS");
+		printf("--- DISPONIBILIDAD DE FECHAS ---");
 
 		while ((dm = fgetc(archivo)) != EOF) { 
 			if (dm == '-') { 
