@@ -5,6 +5,9 @@
 #include "CASEB.h"
 #include "CASEC.h"
 #define FECHA 7
+#define TODO 198
+#define MEDIO 150
+#define POCO 85
 
 
 typedef struct {

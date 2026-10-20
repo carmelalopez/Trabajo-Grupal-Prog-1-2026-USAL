@@ -1,12 +1,13 @@
 #ifndef CASEB
 #define CASEB
 
-void disponibilidad() {
-
-	printf("Ingrese la fecha actual (dd/mm): "); 
+void disponibilidad(Excursion *datos) {
+  
+	printf("Ingrese la fecha actual (dd/mm): ");
+	scanf("%s", datos->fecha_actual);
 
 	int dia, mes;
-	if (sscanf(datos->fecha_actual, "%d/%d", &dia, &mes) != 2) { 
+	if (sscanf(datos->fecha_actual, "%d/%d", &dia, &mes) != 2) {
 		printf("Error: Formato de fecha incorrecto. Debe ser dd/mm.\n");
 		return;
 	}

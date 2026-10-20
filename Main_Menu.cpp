@@ -27,7 +27,7 @@ int main() {
 			presupuestoSafari (datos);
 			break;
 		case 'D': 
-			printf ("Finalizando programa..");
+			 printf ("Finalizando programa...\n");
 			break;
 
 		}
