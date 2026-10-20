@@ -1,6 +1,6 @@
 ============================================================
 
-      TRABAJO GRUPAL - PROGRAMACIÓN I - USAL 2026
+   TRABAJO GRUPAL - PROGRAMACIÓN I - USAL 2026
 
 ============================================================
 11/10/2026 Se agrego el archivo de texto con las excursiones. Y se realizo el primer cpp con la estructura de datos.
