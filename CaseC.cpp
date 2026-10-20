@@ -1,5 +1,6 @@
 #ifndef CASEC
 #define CASEC
+#include "Inicio_Estructura.h"
 
 void presupuestoSafari (Excursion datos){
   void presupuestoSafari (Excursion datos){
