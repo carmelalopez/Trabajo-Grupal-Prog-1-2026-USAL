@@ -11,9 +11,8 @@ int main() {
 		printf("(C) Sacar presupuesto.\n");
 		printf("(D) Salir del menu.\n");
 
-		printf("\nIngresar opcion: );
-		fflush(stdin);
-		scanf("%c", &datos.opcion_excursion);
+		printf("\nIngresar opcion:);
+		scanf(" %c", &datos.opcion_excursion);
 		datos.opcion_excursion = toupper(datos.opcion_excursion);
 
 		switch (datos.opcion_excursion) {
