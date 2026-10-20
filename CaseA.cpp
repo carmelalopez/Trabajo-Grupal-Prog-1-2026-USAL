@@ -1,14 +1,14 @@
 #ifndef CASEA
 #define CASEA
 
-void mostrar_excursiones() {
+void mostrar_excursiones(Excursion datos) {
 	FILE *archivo;
 	char linea[300];
 
-	archivo = fopen("excursiones.txt", "r");
+	archivo = fopen("excursiones1.txt", "r");
 
 	if (archivo == NULL) {
-		printf("No se pudo abrir el archivo excursiones.txt\n");
+		printf("No se pudo abrir el archivo excursiones1.txt\n");
 		return;
 	}
 
