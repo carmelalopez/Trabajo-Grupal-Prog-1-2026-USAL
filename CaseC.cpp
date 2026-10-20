@@ -1,7 +1,7 @@
 #ifndef CASEC
 #define CASEC
 
-void presupuestoSafari (){
+void presupuestoSafari (Excursion datos){
 printf("\nIngrese su presupuesto disponible en USD: ");
     scanf("%f", &datos.presupuesto);
 
