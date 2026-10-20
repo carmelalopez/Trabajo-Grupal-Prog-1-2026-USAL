@@ -1,3 +1,5 @@
+#include "INICIO_ESTRUCTURA.h"
+
 int main() {
 
 
