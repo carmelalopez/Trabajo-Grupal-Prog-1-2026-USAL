@@ -1,40 +1,88 @@
-------EXCURSIONES EN SUDAFRICA------
+============================================================
+              EXCURSIONES EN SUDÁFRICA
+============================================================
 
--Safari de dia completo en vehiculo 4x4-
-LUGAR:Parque Nacional Kruger
-AVISTAMIENTOS: Los "Cinco Grandes"
-DURACION: 8 a 10hs
-PRECIO DE SAFARI COMPARTIDO: 170 USD por persona + TARIFA DE CONSERVACION 28 USD por persona
-DISPONIBILIDAD DE FECHAS:
-   -14/09
-   -18/09
-   -12/10
-   -16/10
-   -2/11
-   -6/11
+============================================================
+1. SAFARI DE DÍA COMPLETO EN VEHÍCULO 4x4
+============================================================
 
--Avistamiento de ballenas en embarcación-
-LUGAR:Hermanus (Walker Bay, provincia del Cabo Occidental)
-AVISTAMIENTOS:Ballena franca austral y pingüinos africanos.
-DURACION: 2hs
-PRECIO: Adultos 85 USD
-DISPONIBILIDAD DE FECHAS:
-     -9/06
-     -24/06
-     -7/07
-     -22/07
-     -10/08
-     -31/08
+LUGAR:
+  Parque Nacional Kruger
 
--Inmersion en jaula con tiburones (Shark Cage Diving)-
-LUGAR:Gansbaai / Puerto de Kleinbaai
-AVISTAMIENTOS:Tiburon cobrizo y tiburon blanco
-DURACION: 3 a 4hs
-PRECIO: Ticket de inmersión por persona 150 USD
-DISPONIBILIDAD DE FECHAS:
-     -16/02
-     -20/02
-     -9/03
-     -13/03
-     -1/04
-     -10/04
+AVISTAMIENTOS:
+  Los Cinco Grandes (Big Five)
+
+DURACIÓN:
+  8 a 10 horas
+
+PRECIO:
+  - Safari compartido: USD 170 por persona
+  - Tarifa de conservación: USD 28 por persona
+  - TOTAL: USD 198 por persona
+
+FECHAS DISPONIBLES:
+  - 14/09
+  - 18/09
+  - 12/10
+  - 16/10
+  - 02/11
+  - 06/11
+
+
+============================================================
+2. AVISTAMIENTO DE BALLENAS EN EMBARCACIÓN
+============================================================
+
+LUGAR:
+  Hermanus, Walker Bay
+  Provincia del Cabo Occidental
+
+AVISTAMIENTOS:
+  - Ballena franca austral
+  - Pingüinos africanos
+
+DURACIÓN:
+  2 horas
+
+PRECIO:
+  - Adultos: USD 85 por persona
+
+FECHAS DISPONIBLES:
+  - 09/06
+  - 24/06
+  - 07/07
+  - 22/07
+  - 10/08
+  - 31/08
+
+
+============================================================
+3. INMERSIÓN EN JAULA CON TIBURONES
+   (SHARK CAGE DIVING)
+============================================================
+
+LUGAR:
+  Gansbaai, puerto de Kleinbaai
+
+AVISTAMIENTOS:
+  - Tiburón cobrizo
+  - Tiburón blanco
+
+DURACIÓN:
+  3 a 4 horas
+
+PRECIO:
+  - Ticket de inmersión: USD 150 por persona
+
+FECHAS DISPONIBLES:
+  - 16/02
+  - 20/02
+  - 09/03
+  - 13/03
+  - 01/04
+  - 10/04
+
+
+============================================================
+                  FIN DE LA LISTA
+============================================================
