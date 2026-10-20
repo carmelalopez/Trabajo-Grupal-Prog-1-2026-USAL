@@ -5,9 +5,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <ctype.h>
-#include "CASEA.h"
-#include "CASEB.h"
-#include "CASEC.h"
+
 #define FECHA 7
 #define TODO 198
 #define MEDIO 150
