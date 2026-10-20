@@ -15,6 +15,6 @@ typedef struct {
 	bool disponibilidad;  // disponibilidad para las fechas va de la mano de fecha de actual
 } Excursion;
 
-void mostrar_excursiones ();
-void disponibilidad ();
-void presupuestoSafari ();
+void mostrar_excursiones (Excursion datos);
+void disponibilidad (Excursion *datos);
+void presupuestoSafari (Excursion datos);
