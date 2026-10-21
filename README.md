@@ -1,10 +1,10 @@
 TRABAJO GRUPAL - PROGRAMACIÓN I - USAL 2026
 
-**REGISTRO DE AVANCES DEL PROYECTO**
+**--REGISTRO DE AVANCES DEL PROYECTO--**
 
 Este archivo documenta los avances, las tareas realizadas y
 las correcciones implementadas durante el desarrollo del
-proyecto grupal de Programación I 2026.
+proyecto grupal de Programación I 2026. 
 
 ------------------------------------------------------------
 11/10/2026 - ESTRUCTURA INICIAL
@@ -24,7 +24,7 @@ proyecto grupal de Programación I 2026.
   organizando el trabajo en función de las distintas
   funciones del programa.
 - Se corrigieron errores menores detectados durante
-  la revisión del código.
+  la revisión del código y logramos nuestra base.
 
 ------------------------------------------------------------
 15/10/2026 - DESARROLLO DEL CASE B
@@ -70,9 +70,11 @@ proyecto grupal de Programación I 2026.
 20/10/2026 - REVISIÓN FINAL Y MEJORAS DEL PROYECTO
 ------------------------------------------------------------
 
-Se terminó de pulir la estética general del programa,
+Finalizo la pulida estética general del programa,
 mejorando la presentación de la información y la
-organización visual de los mensajes mostrados por pantalla.
+organización visual de los mensajes mostrados por pantalla 
+con el objetivo de genearar una satsifacción visual al usuario
+que utilice el código.
 
 Se realizaron ajustes en el formato y la distribución
 de los textos para lograr una interfaz más clara,
@@ -80,7 +82,7 @@ ordenada y fácil de comprender para el usuario.
 
 Se detectaron y corrigieron algunos errores de
 compilación que surgieron durante las últimas etapas
-del desarrollo.
+del desarrollo. 
 
 Se revisaron las funciones implementadas para verificar
 que las modificaciones realizadas no afectaran el
@@ -88,13 +90,17 @@ funcionamiento general del programa.
 
 Se efectuaron correcciones finales y pequeños ajustes
 en el código fuente con el objetivo de mejorar su
-estabilidad y legibilidad.
+estabilidad, legibilidad y darle una mayor organización al 
+proyecto.
 
 Se llevó a cabo una última revisión general del proyecto,
-buscando dejar el programa en condiciones de entrega.
+buscando dejar el programa en condiciones de entrega para el 
+día 23/10. 
 
 Estas tareas permitieron completar la etapa final de
 revisión y perfeccionamiento del proyecto grupal,
 priorizando tanto el correcto funcionamiento del código
 como la presentación y la experiencia del usuario.
+
+
 
