@@ -1,9 +1,11 @@
+
+#ifndef INICIO_ESTRUCTURA_H
+#define INICIO_ESTRUCTURA_H
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <ctype.h>
-#include "CASEA.h"
-#include "CASEB.h"
-#include "CASEC.h"
+
 #define FECHA 7
 #define TODO 198
 #define MEDIO 150
@@ -21,3 +23,4 @@ typedef struct {
 void mostrar_excursiones (Excursion datos);
 void disponibilidad (Excursion *datos);
 void presupuestoSafari (Excursion datos);
+#endif

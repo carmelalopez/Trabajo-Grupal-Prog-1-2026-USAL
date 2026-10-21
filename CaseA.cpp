@@ -1,6 +1,6 @@
 #ifndef CASEA
 #define CASEA
-
+#include "Inicio_Estructura.h"
 void mostrar_excursiones(Excursion datos) {
 	FILE *archivo;
 	char linea[300];

@@ -1,3 +1,5 @@
+#include "Inicio_Estructura.h"
+
 int main() {
 
 
@@ -9,10 +11,8 @@ int main() {
 		printf("(C) Sacar presupuesto.\n");
 		printf("(D) Salir del menu.\n");
 
-		printf("\nIngresar opcion: );
-		fflush(stdin);
-		scanf("%c", &datos.opcion_excursion);
-		fflush(stdin);
+		printf("\nIngresar opcion:");
+		scanf(" %c", &datos.opcion_excursion);
 		datos.opcion_excursion = toupper(datos.opcion_excursion);
 
 		switch (datos.opcion_excursion) {
