@@ -1,26 +1,26 @@
 ============================================================
-              EXCURSIONES EN SUDÁFRICA
+                EXCURSIONES EN SUDÁFRICA
 ============================================================
 
 ============================================================
 1. SAFARI DE DÍA COMPLETO EN VEHÍCULO 4x4
 ============================================================
 
-LUGAR:
-  Parque Nacional Kruger
+°LUGAR:
+  Parque Nacional Kruger.
 
-AVISTAMIENTOS:
-  Los Cinco Grandes (Big Five)
+°AVISTAMIENTOS:
+  Los Cinco Grandes (Big Five).
 
-DURACIÓN:
-  8 a 10 horas
+°DURACIÓN:
+  8 a 10 horas.
 
-PRECIO:
-  - Safari compartido: USD 170 por persona
-  - Tarifa de conservación: USD 28 por persona
-  - TOTAL: USD 198 por persona
+°PRECIO:
+  - Safari compartido: USD 170 por persona.
+  - Tarifa de conservación: USD 28 por persona.
+  - TOTAL: USD 198 por persona.
 
-FECHAS DISPONIBLES:
+°FECHAS DISPONIBLES:
   - 14/09
   - 18/09
   - 12/10
@@ -33,21 +33,21 @@ FECHAS DISPONIBLES:
 2. AVISTAMIENTO DE BALLENAS EN EMBARCACIÓN
 ============================================================
 
-LUGAR:
-  Hermanus, Walker Bay
-  Provincia del Cabo Occidental
+°LUGAR:
+  Hermanus, Walker Bay.
+  Provincia del Cabo Occidental.
 
-AVISTAMIENTOS:
-  - Ballena franca austral
-  - Pingüinos africanos
+°AVISTAMIENTOS:
+  - Ballena franca austral.
+  - Pingüinos africanos.
 
-DURACIÓN:
-  2 horas
+°DURACIÓN:
+  2 horas.
 
-PRECIO:
-  - Adultos: USD 85 por persona
+°PRECIO:
+  - Adultos: USD 85 por persona.
 
-FECHAS DISPONIBLES:
+°FECHAS DISPONIBLES:
   - 09/06
   - 24/06
   - 07/07
@@ -61,20 +61,20 @@ FECHAS DISPONIBLES:
    (SHARK CAGE DIVING)
 ============================================================
 
-LUGAR:
-  Gansbaai, puerto de Kleinbaai
+°LUGAR:
+  Gansbaai, puerto de Kleinbaai.
 
-AVISTAMIENTOS:
-  - Tiburón cobrizo
-  - Tiburón blanco
+°AVISTAMIENTOS:
+  - Tiburón cobrizo.
+  - Tiburón blanco.
 
-DURACIÓN:
-  3 a 4 horas
+°DURACIÓN:
+  3 a 4 horas.
 
-PRECIO:
-  - Ticket de inmersión: USD 150 por persona
+°PRECIO:
+  - Ticket de inmersión: USD 150 por persona.
 
-FECHAS DISPONIBLES:
+°FECHAS DISPONIBLES:
   - 16/02
   - 20/02
   - 09/03
@@ -84,5 +84,5 @@ FECHAS DISPONIBLES:
 
 
 ============================================================
-                  FIN DE LA LISTA
+                     FIN DE LA LISTA
 ============================================================
