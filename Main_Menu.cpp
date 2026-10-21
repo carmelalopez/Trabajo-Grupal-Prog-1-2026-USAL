@@ -5,13 +5,13 @@ int main() {
 
 	Excursion datos;
 	do {
-		printf("\nMENU PRINCIPAL - EXCURSIONES SUDAFRICA\n");
+		printf("\nMENU PRINCIPAL - EXCURSIONES EN SUDAFRICA.\n");
 		printf("(A) Información de excursiones.\n");
 		printf("(B) Disponibilidad de fechas.\n");
 		printf("(C) Sacar presupuesto.\n");
 		printf("(D) Salir del menu.\n");
 
-		printf("\nIngresar opcion:");
+		printf("\nIngresar una opción:");
 		scanf(" %c", &datos.opcion_excursion);
 		datos.opcion_excursion = toupper(datos.opcion_excursion);
 
