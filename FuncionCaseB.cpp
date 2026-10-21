@@ -6,7 +6,7 @@ void disponibilidad(Excursion *datos) {
   
 	printf("\n");
     printf("**************************************************\n");
-    printf("           CONSULTA DE DISPONIBILIDAD\n");
+    printf("           CONSULTA DE DISPONIBILIDAD:\n");
     printf("**************************************************\n");
     printf("\nIngrese la fecha actual (dd/mm): ");
 	scanf("%s", datos->fecha_actual);
@@ -34,7 +34,7 @@ void disponibilidad(Excursion *datos) {
 	int dia_archivo, mes_archivo; 
 	char dm;  
 
-		printf("-.-.- DISPONIBILIDAD DE FECHAS .-.-");
+		printf("-.-.- DISPONIBILIDAD DE FECHAS: .-.-");
 
 		while ((dm = fgetc(archivo)) != EOF) { 
 			if (dm == '-') { 
