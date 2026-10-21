@@ -1,4 +1,5 @@
 ==========================================================
+
 TRABAJO GRUPAL - PROGRAMACIÓN I - USAL 2026
 ==========================================================
 
@@ -9,6 +10,7 @@ las correcciones implementadas durante el desarrollo del
 proyecto grupal de Programación I 2026. 
 
 ===========================================================
+
 11/10/2026 - ESTRUCTURA INICIAL DEL PROGRAMA
 ===========================================================
 
