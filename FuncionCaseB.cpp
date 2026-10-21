@@ -13,7 +13,7 @@ void disponibilidad(Excursion *datos) {
 
 	int dia, mes;
 	if (sscanf(datos->fecha_actual, "%d/%d", &dia, &mes) != 2) {
-		printf("[ERROR] Formato de fecha incorrecto. Debe ser dd/mm.\n");
+		printf("[ERROR] Formato de fecha ingresada incorrecta. Debe ser dd/mm.\n");
 		return;
 	}
 
@@ -34,7 +34,7 @@ void disponibilidad(Excursion *datos) {
 	int dia_archivo, mes_archivo; 
 	char dm;  
 
-		printf("-.-.- DISPONIBILIDAD DE FECHAS: .-.-");
+		printf("-.-.- DISPONIBILIDAD DE FECHAS DE LAS EXCURSIONES: .-.-");
 
 		while ((dm = fgetc(archivo)) != EOF) { 
 			if (dm == '-') { 
@@ -42,17 +42,17 @@ void disponibilidad(Excursion *datos) {
 					printf("Fecha [%02d/%02d]\n ", dia_archivo, mes_archivo);
 
 					if (mes < mes_archivo || (mes == mes_archivo && dia < dia_archivo)) { 
-						printf("Disponible\n");
+						printf("Disponible en esa fecha.\n");
 						fprintf(archivo_disponible, "%02d/%02d\n", dia_archivo, mes_archivo);
 						datos->disponibilidad = true;
 					}
 					else if (mes > mes_archivo || (mes == mes_archivo && dia > dia_archivo)) { 
-						printf("NO Disponible\n");
+						printf("NO Disponible en esa fecha.\n");
 						fprintf(archivo_no_disponible, "%02d/%02d\n", dia_archivo, mes_archivo);
 						datos->disponibilidad = false; 
 					}
 					else {
-						printf("Es hoy, reserve los ultimos cupos\n");
+						printf("Es hoy. ¡Reserve los últimos cupos para una experiencia inolvidable!\n");
 						fprintf(archivo_disponible, "- %02d/%02d (HOY)\n", dia_archivo, mes_archivo);
 						datos->disponibilidad = true; 
 					}
