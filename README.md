@@ -20,6 +20,7 @@ proyecto grupal de Programación I 2026.
   estableciendo la estructura inicial de datos del programa.
 
 ============================================================
+
 14/10/2026 - ORGANIZACIÓN Y DESARROLLO
 ============================================================
 
@@ -32,6 +33,7 @@ proyecto grupal de Programación I 2026.
   empezar a trabajar.
 
 ===========================================================
+
 15/10/2026 - DESARROLLO DEL CASE B
 ============================================================
 
@@ -50,6 +52,7 @@ proyecto grupal de Programación I 2026.
   y la búsqueda de coincidencias con los datos solicitados.
 
 ============================================================
+
 16/10/2026 - DESARROLLO DEL CASE C
 ============================================================
 
@@ -64,6 +67,7 @@ proyecto grupal de Programación I 2026.
   compararlo con el costo de las excursiones disponibles.
 
 ============================================================
+
 16/10/2026 - REVISIÓN Y CORRECCIÓN
 ============================================================
 
@@ -72,6 +76,7 @@ proyecto grupal de Programación I 2026.
   para mejorar el funcionamiento del programa.
 
 ============================================================
+
 20/10/2026 - REVISIÓN FINAL Y MEJORAS DEL PROYECTO
 ============================================================
 
