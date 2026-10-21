@@ -1,5 +1,4 @@
 TRABAJO GRUPAL - PROGRAMACIÓN I - USAL 2026
-============================================================
 
 **REGISTRO DE AVANCES DEL PROYECTO**
 

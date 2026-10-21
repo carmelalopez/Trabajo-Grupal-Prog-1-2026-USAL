@@ -34,7 +34,7 @@ void disponibilidad(Excursion *datos) {
 	int dia_archivo, mes_archivo; 
 	char dm;  
 
-		printf("DISPONIBILIDAD DE FECHAS");
+		printf("--- DISPONIBILIDAD DE FECHAS ---");
 
 		while ((dm = fgetc(archivo)) != EOF) { 
 			if (dm == '-') { 
