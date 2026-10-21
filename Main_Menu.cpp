@@ -6,7 +6,7 @@ int main() {
 	Excursion datos;
 	do {
 		printf("\nMENU PRINCIPAL - EXCURSIONES SUDAFRICA\n");
-		printf("(A) Informacion de excursiones.\n");
+		printf("(A) Información de excursiones.\n");
 		printf("(B) Disponibilidad de fechas.\n");
 		printf("(C) Sacar presupuesto.\n");
 		printf("(D) Salir del menu.\n");
