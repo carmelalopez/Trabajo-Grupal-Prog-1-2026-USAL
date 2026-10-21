@@ -80,37 +80,37 @@ proyecto grupal de Programación I 2026.
 20/10/2026 - REVISIÓN FINAL Y MEJORAS DEL PROYECTO
 ============================================================
 
-Finalizo la pulida estética general del programa,
-mejorando la presentación de la información y la
-organización visual de los mensajes mostrados por pantalla 
-con el objetivo de genearar una satsifacción visual al usuario
-cuando utilice el código.
+-Finalizo la pulida estética general del programa,
+ mejorando la presentación de la información y la
+ organización visual de los mensajes mostrados por pantalla 
+ con el objetivo de genearar una satsifacción visual al usuario
+ cuando utilice el código.
 
-Se realizaron ajustes en el formato y la distribución
-de los textos para lograr una interfaz más clara,
-ordenada y fácil de comprender para el usuario.
+-Se realizaron ajustes en el formato y la distribución
+ de los textos para lograr una interfaz más clara,
+ ordenada y fácil de comprender para el usuario.
 
-Se detectaron y corrigieron algunos errores de
-compilación que surgieron durante las últimas etapas
-del desarrollo del programa. 
+-Se detectaron y corrigieron algunos errores de
+ compilación que surgieron durante las últimas etapas
+ del desarrollo del programa. 
 
-Se revisaron las funciones implementadas para verificar
-que las modificaciones realizadas no afectaran el
-funcionamiento general del programa.
+-Se revisaron las funciones implementadas para verificar
+ que las modificaciones realizadas no afectaran el
+ funcionamiento general del programa.
 
-Se efectuaron correcciones finales y pequeños ajustes
-en el código fuente con el objetivo de mejorar su
-estabilidad, legibilidad y darle una mayor organización al 
-proyecto.
+-Se efectuaron correcciones finales y pequeños ajustes
+ en el código fuente con el objetivo de mejorar su
+ estabilidad, legibilidad y darle una mayor organización al 
+ proyecto.
 
-Se llevó a cabo una última revisión general del proyecto,
-buscando dejar el programa en condiciones de entrega para el 
-día 23/10. 
+-Se llevó a cabo una última revisión general del proyecto,
+ buscando dejar el programa en condiciones de entrega para el 
+ día 23/10. 
 
-Estas tareas permitieron completar la etapa final de
-revisión y perfeccionamiento del proyecto grupal,
-priorizando tanto el correcto funcionamiento del código
-como la presentación y la experiencia del usuario.
+-Estas tareas permitieron completar la etapa final de
+ revisión y perfeccionamiento del proyecto grupal,
+ priorizando tanto el correcto funcionamiento del código
+ como la presentación y la experiencia del usuario.
 
 
 
