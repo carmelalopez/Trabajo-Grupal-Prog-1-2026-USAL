@@ -14,10 +14,10 @@
 
 typedef struct {
 	char fecha_actual[FECHA];
-	char opcion_excursion; //elige A B o C según la excursión que desea realizar
-	float presupuesto;  // presupuesto del usuario
-	int cant_personas;  // cantidad de personas para realizar un calculo de presupuesto
-	bool disponibilidad;  // disponibilidad para las fechas va de la mano de fecha de actual
+	char opcion_excursion; //Elige A B o C según la excursión que desea realizar.
+	float presupuesto;  // Presupuesto del usuario para las excursiones.
+	int cant_personas;  // Cantidad de personas para realizar un calculo de presupuesto.
+	bool disponibilidad;  // Disponibilidad para las fechas, va de la mano de la fecha actual.
 } Excursion;
 
 void mostrar_excursiones (Excursion datos);
