@@ -34,7 +34,7 @@ void disponibilidad(Excursion *datos) {
 	int dia_archivo, mes_archivo; 
 	char dm;  
 
-		printf("-.-.- DISPONIBILIDAD DE FECHAS DE LAS EXCURSIONES: .-.-");
+		printf("-.-.-.- DISPONIBILIDAD DE FECHAS DE LAS EXCURSIONES: .-.-.-");
 
 		while ((dm = fgetc(archivo)) != EOF) { 
 			if (dm == '-') { 
@@ -47,7 +47,7 @@ void disponibilidad(Excursion *datos) {
 						datos->disponibilidad = true;
 					}
 					else if (mes > mes_archivo || (mes == mes_archivo && dia > dia_archivo)) { 
-						printf("NO Disponible en esa fecha.\n");
+						printf("NO Disponible en esa fecha, lo sentimos"\n");
 						fprintf(archivo_no_disponible, "%02d/%02d\n", dia_archivo, mes_archivo);
 						datos->disponibilidad = false; 
 					}
